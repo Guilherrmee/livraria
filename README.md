@@ -2,6 +2,12 @@
 
 Este é um projeto de sistema de gerenciamento de livros, desenvolvido em TypeScript. Ele inclui operações CRUD (criação, leitura, atualização e exclusão) e interações com uma API externa. O sistema foi criado com o objetivo de oferecer uma solução organizada para gerenciar um catálogo de livros, com integração a APIs externas e testes automatizados.
 
+-------------------------------------- **Grupo** --------------------------------------
+• Hiago Damasceno - 53448
+• Giovanna Lourenço - 56052
+• Guilherme Jose Dias - 56327
+• Maria Eduarda Macedo - 63339
+• Marizelia Cardoso - 52628
 -------------------------------------- **Requisitos** --------------------------------------
 
 -------------------------------------- **Funcionais** --------------------------------------
